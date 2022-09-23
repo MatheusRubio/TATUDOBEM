@@ -1,0 +1,5 @@
+Filtrar receitas pelo cheff
+Mural de top receitas
+
+Possível conversão das unidades de medida (gramas, xicaras, ml, colheres)
+Aumentar a interação entre os próprios usuários
