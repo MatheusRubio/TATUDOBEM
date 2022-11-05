@@ -3,4 +3,3 @@ Mural de top receitas
 
 Possível conversão das unidades de medida (gramas, xicaras, ml, colheres)
 Aumentar a interação entre os próprios usuários
-Pensar em alterar RF "Curtir Receita", onde apenas usuários cadastrados por realiza-la

@@ -1,5 +1,0 @@
-detalhar os campos referentes à edição e inclusão de TODOS os fomulários
-organizar o diagrama de classes
-
-
-//minimo de ingredientes: 2
