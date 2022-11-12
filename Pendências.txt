@@ -1,0 +1,9 @@
+Classes:
+	Adicionar ID e metodo validar receita no administrador
+	categoria tem 0..* receitas
+	cardinalidade receita ingrediente
+	Inserir novas classes: Medida e TipoIngrediente
+
+Caso de Uso:
+	Descrição e Caso das novas classes
+
