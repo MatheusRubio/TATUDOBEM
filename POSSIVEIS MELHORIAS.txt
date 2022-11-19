@@ -4,3 +4,6 @@ Pesquisar receitas entre nome ou ingredientes (Implementar na documentação)
 Inserir foto na receita
 Possível conversão das unidades de medida (gramas, xicaras, ml, colheres)
 Aumentar a interação entre os próprios usuários
+
+PROTOTIPAÇÃO: 
+  Alterar a posição do Botão de "Voltar" = Colocar no inicio das páginas também
